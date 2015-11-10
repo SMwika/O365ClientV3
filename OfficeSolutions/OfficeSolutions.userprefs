@@ -1,11 +1,6 @@
 ﻿<Properties StartupItem="OfficeSolutions.SharePoint/OfficeSolutions.SharePoint.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (KitKat)" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="OfficeSolutions.SharePoint/Helper/AuthenticationHelper.cs">
-    <Files>
-      <File FileName="OfficeSolutions.SharePoint/MainActivity.cs" Line="100" Column="5" />
-      <File FileName="OfficeSolutions.SharePoint/Helper/AuthenticationHelper.cs" Line="19" Column="1" />
-    </Files>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Fabian Nexus 10 (KitKat)" />
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/mayurtendulkar/Projects/OfficeSolutions/OfficeSolutions.SharePoint/MainActivity.cs" line="31" column="1" />

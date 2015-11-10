@@ -45,7 +45,7 @@ namespace OfficeSolutions.SharePoint
 			var contents = new StringContent (body);
 			contents.Headers.ContentType = MediaTypeHeaderValue.Parse( "application/json;odata=verbose");
 			try {
-				var postResult = await client.PostAsync ("https://mayurtendulkar.sharepoint.com/_api/web/lists/", contents);
+				var postResult = await client.PostAsync ("https://namehere.sharepoint.com/_api/web/lists/", contents);
 				var result = postResult.EnsureSuccessStatusCode();
 				Toast.MakeText (this, "List created successfully! Seeding tasks.", ToastLength.Long).Show();
 				return true;
@@ -70,7 +70,7 @@ namespace OfficeSolutions.SharePoint
 			contents.Headers.ContentType = MediaTypeHeaderValue.Parse( "application/json;odata=verbose");
 			try {
 
-				var postResult = await client.PostAsync ("https://mayurtendulkar.sharepoint.com/_api/web/lists/GetByTitle('TasksByAndroid')/items", contents);
+				var postResult = await client.PostAsync ("https://namehere.sharepoint.com/_api/web/lists/GetByTitle('TasksByAndroid')/items", contents);
 				var result = postResult.EnsureSuccessStatusCode();
 				if(result.IsSuccessStatusCode)
 					Toast.MakeText (this, "List item created successfully!", ToastLength.Long).Show();
@@ -90,7 +90,7 @@ namespace OfficeSolutions.SharePoint
 			mediaType.Parameters.Add (new NameValueHeaderValue ("odata", "verbose"));
 			client.DefaultRequestHeaders.Accept.Add (mediaType);
 			try {
-				var result = await client.GetStringAsync("https://mayurtendulkar.sharepoint.com/_api/web/lists/GetByTitle('TasksByAndroid')/items");
+				var result = await client.GetStringAsync("https://namehere.sharepoint.com/_api/web/lists/GetByTitle('TasksByAndroid')/items");
 				var data = JsonConvert.DeserializeObject<OfficeSolutions.SharePoint.Model.ListItemModels>(result);
 				ListAdapter = new ListItemAdapter(this, data.D.Results);
 				}

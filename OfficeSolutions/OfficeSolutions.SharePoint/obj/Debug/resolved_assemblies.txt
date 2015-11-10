@@ -1,55 +1,64 @@
-C:\Users\mayurtendulkar\Desktop\OfficeSolutions\OfficeSolutions\OfficeSolutions.SharePoint\bin\Debug\OfficeSolutions.SharePoint.dll
-C:\Users\mayurtendulkar\Desktop\OfficeSolutions\OfficeSolutions\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.3.3.205061641-alpha\lib\MonoAndroid10\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
-C:\Users\mayurtendulkar\Desktop\OfficeSolutions\OfficeSolutions\packages\Microsoft.IdentityModel.Clients.ActiveDirectory.3.3.205061641-alpha\lib\MonoAndroid10\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
-C:\Users\mayurtendulkar\Desktop\OfficeSolutions\OfficeSolutions\packages\Newtonsoft.Json.6.0.8\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll
-C:\Users\mayurtendulkar\Desktop\OfficeSolutions\OfficeSolutions\packages\Microsoft.Net.Http.2.2.29\lib\monoandroid\System.Net.Http.Extensions.dll
-C:\Users\mayurtendulkar\Desktop\OfficeSolutions\OfficeSolutions\packages\Microsoft.Net.Http.2.2.29\lib\monoandroid\System.Net.Http.Primitives.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.Concurrent.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Collections.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.Annotations.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ComponentModel.EventBasedAsync.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Contracts.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Debug.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Tools.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Diagnostics.Tracing.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Dynamic.Runtime.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Globalization.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.IO.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.Expressions.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.Parallel.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Linq.Queryable.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Net.NetworkInformation.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Net.Primitives.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Net.Requests.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ObjectModel.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Emit.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Emit.ILGeneration.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Emit.Lightweight.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Extensions.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Reflection.Primitives.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Resources.ResourceManager.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Extensions.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.InteropServices.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.InteropServices.WindowsRuntime.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Numerics.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Serialization.Json.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Serialization.Primitives.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Runtime.Serialization.Xml.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Security.Principal.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ServiceModel.Http.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ServiceModel.Primitives.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.ServiceModel.Security.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Text.Encoding.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Text.Encoding.Extensions.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Text.RegularExpressions.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.Tasks.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.Tasks.Parallel.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Threading.Timer.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.ReaderWriter.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XDocument.dll
-C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Facades\System.Xml.XmlSerializer.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/OfficeSolutions.SharePoint.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Xml.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/Mono.Android.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Net.Http.Primitives.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Net.Http.Extensions.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Net.Http.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/Newtonsoft.Json.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Core.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/mscorlib.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Collections.Concurrent.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Collections.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ComponentModel.Annotations.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ComponentModel.EventBasedAsync.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ComponentModel.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Diagnostics.Contracts.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Diagnostics.Debug.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Diagnostics.Tools.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Dynamic.Runtime.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Globalization.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.IO.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Linq.Expressions.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Linq.Parallel.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Linq.Queryable.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Linq.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Net.NetworkInformation.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Net.Primitives.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Net.Requests.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ObjectModel.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Reflection.Emit.ILGeneration.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Reflection.Emit.Lightweight.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Reflection.Emit.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Reflection.Extensions.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Reflection.Primitives.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Reflection.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Resources.ResourceManager.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.Extensions.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.InteropServices.WindowsRuntime.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.InteropServices.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.Numerics.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.Serialization.Json.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.Serialization.Primitives.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.Serialization.Xml.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Security.Principal.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ServiceModel.Http.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ServiceModel.Primitives.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Text.Encoding.Extensions.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Text.Encoding.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Text.RegularExpressions.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Threading.Tasks.Parallel.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Threading.Tasks.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Threading.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Xml.ReaderWriter.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Xml.XDocument.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Xml.XmlSerializer.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ComponentModel.DataAnnotations.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Numerics.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ComponentModel.Composition.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.ServiceModel.dll
+/Users/fabianwiilliams/1mycode/LearningStuff/O365ClientV3/OfficeSolutions/OfficeSolutions.SharePoint/obj/Debug/assemblies/System.Xml.Linq.dll
